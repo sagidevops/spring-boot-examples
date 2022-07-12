@@ -1,4 +1,4 @@
-package com.neo.controller;
+package com.neo.spring.boot.controller;
 
 import org.junit.Before;
 import org.junit.Test;
